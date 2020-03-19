@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Desktop\Mascota Virtual\bin\MCD\Debug\netcoreapp3.1\Mascota Virtual.exe
+C:\Users\Jonathan\Desktop\Mascota Virtual\bin\MCD\Debug\netcoreapp3.1\Mascota Virtual.deps.json
+C:\Users\Jonathan\Desktop\Mascota Virtual\bin\MCD\Debug\netcoreapp3.1\Mascota Virtual.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Mascota Virtual\bin\MCD\Debug\netcoreapp3.1\Mascota Virtual.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Mascota Virtual\bin\MCD\Debug\netcoreapp3.1\Mascota Virtual.dll
+C:\Users\Jonathan\Desktop\Mascota Virtual\bin\MCD\Debug\netcoreapp3.1\Mascota Virtual.pdb
+C:\Users\Jonathan\Desktop\Mascota Virtual\obj\MCD\Debug\netcoreapp3.1\Mascota Virtual.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Mascota Virtual\obj\MCD\Debug\netcoreapp3.1\Mascota Virtual.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Mascota Virtual\obj\MCD\Debug\netcoreapp3.1\Mascota Virtual.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Mascota Virtual\obj\MCD\Debug\netcoreapp3.1\Mascota Virtual.dll
+C:\Users\Jonathan\Desktop\Mascota Virtual\obj\MCD\Debug\netcoreapp3.1\Mascota Virtual.pdb
